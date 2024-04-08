@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "c645259e-0de7-49e5-8929-021bb559b7da")
+	(paper "B")
+	(lib_symbols)
+	(sheet
+		(at 165.1 127)
+		(size 53.34 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "21e5be49-6eb6-4711-af4e-d733e7412cc5")
+		(property "Sheetname" "Ports - South"
+			(at 165.1 126.2884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "do_pdu_base_ports_south.kicad_sch"
+			(at 165.1 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "do_pdu_base"
+				(path "/c645259e-0de7-49e5-8929-021bb559b7da"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 228.6 101.6)
+		(size 49.53 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "4e2fdddc-e702-47e2-b532-3569b95a395a")
+		(property "Sheetname" "Ports - East"
+			(at 228.6 100.8884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "do_pdu_base_ports_east.kicad_sch"
+			(at 228.6 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "do_pdu_base"
+				(path "/c645259e-0de7-49e5-8929-021bb559b7da"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 101.6 102.87)
+		(size 50.8 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "5ebf6ecb-8804-4c0f-8f74-85e496ad3eeb")
+		(property "Sheetname" "Ports - West"
+			(at 101.6 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "do_pdu_base_ports_west.kicad_sch"
+			(at 101.6 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "do_pdu_base"
+				(path "/c645259e-0de7-49e5-8929-021bb559b7da"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 177.8 102.87)
+		(size 25.4 3.81)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "681e03cf-5c78-49f9-bd06-4c256ea733b4")
+		(property "Sheetname" "Power Input"
+			(at 177.8 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "do_pdu_base_power_in.kicad_sch"
+			(at 177.8 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "do_pdu_base"
+				(path "/c645259e-0de7-49e5-8929-021bb559b7da"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 165.1 63.5)
+		(size 50.8 5.08)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "f5e72b23-fd4b-4f88-b20e-5af58771acfc")
+		(property "Sheetname" "Ports - North"
+			(at 165.1 62.7884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "do_pdu_base_ports_north.kicad_sch"
+			(at 165.1 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "do_pdu_base"
+				(path "/c645259e-0de7-49e5-8929-021bb559b7da"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
